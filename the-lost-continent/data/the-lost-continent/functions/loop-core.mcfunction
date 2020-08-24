@@ -8,7 +8,6 @@ function the-lost-continent:loop-required/help-tlc
 
 	#Generate Armours
 execute if entity @a[tag=Pantalan] run function the-lost-continent:loop-required/generate-armour/give-armour
-execute at @a[tag=!Pantalan] unless entity @p[nbt=!{Inventory:[{tag:{tribearmor:1}}]},nbt=!{Inventory:[{tag:{tribewings:1}}]}] run function the-lost-continent:loop-required/generate-armour/remove-armour
 
 	#Run Tribes
 execute if entity @a[team=HiveWings] run function the-lost-continent:loop-required/run-tribes/run-hivewings

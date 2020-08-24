@@ -8,4 +8,4 @@ tag @a[team=!HiveWings,team=!LeafWings,team=!SilkWings,tag=Pantalan] remove Pant
 
 #Tag Dragon
 tag @a[tag=Pantalan,tag=!Dragon] add Dragon
-execute as @a[tag=!Pyrrhian] run tag @a[tag=!Pantalan,tag=Dragon] remove Dragon
+tag @a[tag=!Pyrrhian,tag=!Pantalan,tag=Dragon] remove Dragon
