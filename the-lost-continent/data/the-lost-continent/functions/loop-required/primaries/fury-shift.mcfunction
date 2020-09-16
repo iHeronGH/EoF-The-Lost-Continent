@@ -1,7 +1,3 @@
-#Wings of Fire Datapack for Minecraft Java 1.15.X
-#Created by iDinoSoul
-#My YouTube: https://www.youtube.com/channel/UCsABLqAUwZ2WzULSkKvSU5w
-
 #Execute Fury Shift
 execute if entity @s[tag=!CoolDown1,nbt={SelectedItem:{tag:{dartmode:1,stock:1}}}] at @s run summon area_effect_cloud ~ ~1.2 ~ {Tags:["FuryLine","PoisonLine","getRot"],Particle:"block air",Duration:12,Radius:1f}
 execute if entity @s[tag=!CoolDown1,nbt={SelectedItem:{tag:{slingmode:1,stock:1}}}] at @s run summon area_effect_cloud ~ ~1.2 ~ {Tags:["FuryLine","SapLine","getRot"],Particle:"block air",Duration:20,Radius:1f}

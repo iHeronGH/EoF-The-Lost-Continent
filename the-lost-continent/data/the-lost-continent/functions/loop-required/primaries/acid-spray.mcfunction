@@ -1,8 +1,4 @@
-#Wings of Fire Datapack for Minecraft Java 1.15.X
-#Created by iDinoSoul
-#My YouTube: https://www.youtube.com/channel/UCsABLqAUwZ2WzULSkKvSU5w
-
-#Execute Flame Breath
+#Execute Acid Spray
 execute if entity @s[tag=!CoolDown1,nbt={SelectedItem:{tag:{stock:1}}}] at @s run summon area_effect_cloud ~ ~1.2 ~ {Tags:["AcidLine","getRot"],Particle:"block air",Duration:25,Radius:0.8f}
 execute if entity @s[tag=!CoolDown1] run title @s actionbar {"text":"Acid Spray has entered a 10s cooldown!","bold":true,"color":"gold"}
 

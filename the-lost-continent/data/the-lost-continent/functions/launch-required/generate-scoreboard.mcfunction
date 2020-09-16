@@ -1,11 +1,4 @@
-#Wings of Fire Datapack for Minecraft Java 1.15.X
-#Created by iDinoSoul
-#My YouTube: https://www.youtube.com/channel/UCsABLqAUwZ2WzULSkKvSU5w
-
 #Generate Scoreboard
-
-	#Essential Scoreboard
-scoreboard objectives add help-tlc trigger
 
 	#Ability Usage Scoreboard
 scoreboard objectives add RCAcid minecraft.used:minecraft.carrot_on_a_stick

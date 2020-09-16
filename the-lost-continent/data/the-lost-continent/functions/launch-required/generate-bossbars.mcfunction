@@ -1,7 +1,3 @@
-#Wings of Fire Datapack for Minecraft Java 1.15.X
-#Created by iDinoSoul
-#My YouTube: https://www.youtube.com/channel/UCsABLqAUwZ2WzULSkKvSU5w
-
 #Create All Bossbars
 bossbar add silk-meter0 {"text":"Silk Meter","bold":true}
 bossbar add silk-meter1 {"text":"Silk Meter","bold":true}

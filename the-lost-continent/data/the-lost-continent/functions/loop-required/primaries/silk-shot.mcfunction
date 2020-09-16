@@ -1,7 +1,3 @@
-#Wings of Fire Datapack for Minecraft Java 1.15.X
-#Created by iDinoSoul
-#My YouTube: https://www.youtube.com/channel/UCsABLqAUwZ2WzULSkKvSU5w
-
 #Execute Silk Shot
 execute if entity @s[tag=!CoolDown1,scores={silkMeter=0..3},nbt={SelectedItem:{tag:{stock:1}}}] at @s run summon area_effect_cloud ~ ~1.2 ~ {Tags:["SilkLine","snipe","getRot"],Particle:"block air",Duration:25,Radius:0.1f}
 execute if entity @s[tag=!CoolDown1,scores={silkMeter=4..5},nbt={SelectedItem:{tag:{stock:1}}}] at @s run summon area_effect_cloud ~ ~1.2 ~ {Tags:["SilkLine","burst","burst1","getRot"],Particle:"block air",Duration:25,Radius:0.1f}

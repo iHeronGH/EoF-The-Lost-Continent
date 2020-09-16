@@ -1,7 +1,3 @@
-#Wings of Fire Datapack for Minecraft Java 1.15.X
-#Created by iDinoSoul
-#My YouTube: https://www.youtube.com/channel/UCsABLqAUwZ2WzULSkKvSU5w?view_as=subscriber
-
 #Toggle Fury Shift
 	#Switch to Sling Mode
 replaceitem entity @s[tag=dartMode] hotbar.6 brown_dye{display:{Name:'{"text":"Fury Shift","color":"gold","bold":true,"italic":false}',Lore:['{"text":"[Sneak] + [Use] to","color":"dark_gray"}','{"text":"activate Fury Shift!","color":"dark_gray"}','{"text":"Current Mode:","color":"dark_gray"}','{"text":"Sap Sling","color":"gold"}']},furyshift:1,slingmode:1,primary:1,stock:1}

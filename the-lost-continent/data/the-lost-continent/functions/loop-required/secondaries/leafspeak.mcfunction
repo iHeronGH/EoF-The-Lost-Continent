@@ -1,7 +1,3 @@
-#Wings of Fire Datapack for Minecraft Java 1.15.X
-#Created by iDinoSoul
-#My YouTube: https://www.youtube.com/channel/UCsABLqAUwZ2WzULSkKvSU5w?
-
 #Effect Entities
 execute if entity @s[tag=!CoolDown2] run effect give @s resistance 6 0 true
 execute at @s[tag=!CoolDown2,x_rotation=30..90] run effect give @e[team=!LeafWings,distance=0.1..8] poison 6 0 true

@@ -1,7 +1,3 @@
-#Wings of Fire Datapack for Minecraft Java 1.15.X
-#Created by iDinoSoul
-#My YouTube: https://www.youtube.com/channel/UCsABLqAUwZ2WzULSkKvSU5w?
-
 #Set Max and Distance Values
 execute if entity @e[type=#the-lost-continent:hostiles,team=!SilkWings,distance=0.1..8,limit=1] unless entity @s[scores={senseDist=8,sense=1..11}] run scoreboard players set @s sense 12
 execute if entity @e[type=#the-lost-continent:hostiles,team=!SilkWings,distance=0.1..8,limit=1] unless entity @s[scores={senseDist=8}] run scoreboard players set @s senseDist 8

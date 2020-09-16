@@ -1,7 +1,3 @@
-#Wings of Fire Datapack for Minecraft Java 1.15.X
-#Created by iDinoSoul
-#My YouTube: https://www.youtube.com/channel/UCsABLqAUwZ2WzULSkKvSU5w
-
 #Effect All SilkWings
 effect give @a[team=SilkWings] speed 1 0 true
 effect clear @a[team=SilkWings,tag=nv] night_vision

@@ -1,7 +1,3 @@
-#Wings of Fire Datapack for Minecraft Java 1.15.X
-#Created by iDinoSoul
-#My YouTube: https://www.youtube.com/channel/UCsABLqAUwZ2WzULSkKvSU5w
-
 #Activate Trail
 scoreboard players add @e[distance=0] silkenWebTimer 1
 summon area_effect_cloud ~ ~ ~ {Tags:["silkenWebTrail"],Particle:"block air",Duration:100,Radius:0.6f}

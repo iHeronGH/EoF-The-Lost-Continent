@@ -1,7 +1,3 @@
-#Wings of Fire Datapack for Minecraft Java 1.15.X
-#Created by iDinoSoul
-#My YouTube: https://www.youtube.com/channel/UCsABLqAUwZ2WzULSkKvSU5w?view_as=subscriber
-
 #Toggle Sting Strike
 	#Switch to Paralysis Needle
 replaceitem entity @s[tag=poisonMode] hotbar.8 black_dye{display:{Name:'{"text":"Sting Strike","color":"white","bold":true,"italic":false}',Lore:['{"text":"[Attack] with this item to","color":"dark_gray"}','{"text":"activate Sting Strike!","color":"dark_gray"}','{"text":"Current Mode:","color":"dark_gray"}','{"text":"Paralysis Needle","color":"white"}']},stingstrike:1,paralysismode:1,tertiary:1,HideFlags:63} 1

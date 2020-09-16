@@ -1,7 +1,3 @@
-#Wings of Fire Datapack for Minecraft Java 1.15.X
-#Created by iDinoSoul
-#My YouTube: https://www.youtube.com/channel/UCsABLqAUwZ2WzULSkKvSU5w?
-
 #Effect Entities
 execute if entity @s[tag=!CoolDown2] run effect give @s strength 6 1 true
 execute if entity @s[tag=!CoolDown2] run effect give @a[team=HiveWings,nbt={ActiveEffects:[{Id:1b,Amplifier:2b}]},distance=..8] speed 6 3 true

@@ -1,7 +1,3 @@
-#Wings of Fire Datapack for Minecraft Java 1.15.X
-#Created by iDinoSoul
-#My YouTube: https://www.youtube.com/channel/UCsABLqAUwZ2WzULSkKvSU5w
-
 #Tag toggleFury
 execute if entity @s[tag=!toggleFury,scores={RCShift=1..},nbt={SelectedItem:{tag:{furyshift:1}}}] run tag @s add toggleFury
 execute if entity @s[tag=toggleFury,nbt={SelectedItem:{tag:{dartmode:1}}}] run tag @s add dartMode
