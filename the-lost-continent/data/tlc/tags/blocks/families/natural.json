@@ -1,0 +1,10 @@
+{
+	"values":[
+		"#eof:families/cobblestone",
+		"#eof:families/stone",
+		"#tlc:families/dirt",
+		"#minecraft:leaves",
+		"#minecraft:logs",
+		"minecraft:grass_block"
+	]
+}
