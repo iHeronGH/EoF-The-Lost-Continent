@@ -1,9 +1,10 @@
-# eof-the-lost-continent
-A new DLC datapack to be used in conjunction with the main Elytras of Fire datapack! This add-on features 3 new tribes, each with 3 new abilities.
+# EoF: The Lost Continent
+This Minecraft datapack aims to recreate the world of "Wings of Fire" by author Tui T. Sutherland in-game!
 
 How to Install:
+
 1. Download the datapack (Clone or download -> Download ZIP)
-2. Open the Minecraft world folder, then the "datapacks" folder (Main menu -> Singleplayer -> Select a world, then edit -> Open World Folder -> datapacks).
-3. In the folder you just downloaded is another folder called "eof-the-lost-continent-master," and inside that is "the-lost-continent." Drag that folder into the "datapacks" folder in your world folder.
-4. If you are already logged into your world, type /reload. If this does not show a welcome message, type /datapack enable "file/the-lost-continent" first, then do /reload.
-5. Done!  
+2. Open your 1.16.X Minecraft world folder, then the "datapacks" folder (Main menu -> Singleplayer -> Select a world, then click Edit -> Open World Folder -> datapacks).
+3. Unzip the .zip you downloaded. You should now have a folder called "EoF-The-Lost-Continent-master," and inside of that is a folder titled "tlc". Drag the "tlc" folder into the "datapacks" folder in your world.
+4. Regardless of if you are already logged into your world or not, log into your world and/or type "/reload". If this does not show the welcome message, type /datapack enable "file/tlc" first, then enter in /reload.
+5. You're done! Enjoy the EoF: The Lost Continent datapack!
