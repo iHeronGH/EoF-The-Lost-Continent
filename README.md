@@ -3,7 +3,7 @@ The Elytras of Fire project is currently undergoing a MASSIVE rewrite and has be
 
 You can find the updated datapack repository [here](https://github.com/iHeronGH/Elytras-of-Fire) (repository is privated for now!). Thank you for showing an interest in my works!
 
-# EoF: The Lost Continent
+# EoF: The Lost Continent Legacy
 This Minecraft datapack aims to recreate the world of "Wings of Fire" by author Tui T. Sutherland in-game!
 
 How to Install:
